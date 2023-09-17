@@ -1,0 +1,299 @@
+{
+  "seller": [
+    {
+      "name": "priyanka12 Swami",
+      "email": "nitin@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "priya",
+      "email": "priya@gmail.com",
+      "password": "p123",
+      "id": 2
+    },
+    {
+      "name": "anu",
+      "password": "an123",
+      "email": "anu@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "anju",
+      "password": "anju123",
+      "email": "anju@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "ammu",
+      "password": "a123",
+      "email": "ammu@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "xyz",
+      "password": "xyz",
+      "email": "xyz@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "xyz",
+      "password": "xyz",
+      "email": "xyz@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "appu",
+      "password": "a123",
+      "email": "appu@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "anil",
+      "password": "a123",
+      "email": "anil@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "anas",
+      "password": "a123",
+      "email": "anas@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "rithvik",
+      "password": "a123",
+      "email": "ri",
+      "id": 11
+    },
+    {
+      "name": "rithvik",
+      "password": "a123",
+      "email": "rithvik@gmai.com",
+      "id": 12
+    },
+    {
+      "name": "rithvik",
+      "password": "a123",
+      "email": "rithvik@gmai.com",
+      "id": 13
+    },
+    {
+      "name": "rithvik",
+      "password": "a123",
+      "email": "rithvik@gmai.com",
+      "id": 14
+    },
+    {
+      "name": "rithvik",
+      "password": "a123",
+      "email": "rithvik@gmai.com",
+      "id": 15
+    },
+    {
+      "name": "rithvik",
+      "password": "a123",
+      "email": "rithvik@gmai.com",
+      "id": 16
+    },
+    {
+      "name": "rithvik",
+      "password": "a123",
+      "email": "rithvik@gmai.com",
+      "id": 17
+    }
+  ],
+  "products": [
+    {
+      "name": "iphone mobile",
+      "price": "100000",
+      "color": "black",
+      "category": "mobile",
+      "discription": "",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 1
+    },
+    {
+      "name": "samsung mobile",
+      "price": "24999",
+      "color": "grey",
+      "category": "mobile",
+      "discription": "",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTta0bdoFOnLtqS-TYj7uFJCAcATqtJ6l9sxYHQpIYpX-SmHwt_jwOGGZ27Qt-bS21442wOZ_tbuYQpA7vRyut6MNBlbPwuUQ",
+      "id": 2
+    },
+    {
+      "name": "laptop",
+      "price": "60000",
+      "color": "grey",
+      "category": "laptop",
+      "discription": "",
+      "image": "https://www.lenovo.com/medias/ThinkBook-14-Gen-2-Intel-hero.png?context=bWFzdGVyfHJvb3R8NjYwMDh8aW1hZ2UvcG5nfGg2NC9oZjYvMTMwMzMyMzY0NjM2NDYucG5nfDdlZWU5OGJlYzllYWI0OTM2NDcyMjMwYzA4ZmY3OWRjZDFkNTI4NjgxNWJhOGRmNmZlYTE3OWUzODhmOWQyZjM",
+      "id": 3
+    },
+    {
+      "name": "Nike shoes",
+      "price": "3000",
+      "color": "red",
+      "category": "Nike shoes",
+      "discription": "",
+      "image": "https://i5.walmartimages.com/asr/618a647e-36db-47da-85d9-d449f283271b.734ddc164b4b2d29f9eb3d6ba8085450.jpeg",
+      "id": 4
+    },
+    {
+      "name": "shoes",
+      "price": "3000",
+      "color": "white",
+      "category": "shoes",
+      "discription": "",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzvI_Z35fOHt5B5a6s4rjMqd1b8AvCFk4sZR_n8YR9WgBdNZddzzSllzysfoRno3ki8cu_Wrrdk5xUmHJxE564bevPJENak1Kk2eBvzmQGPfTPFV1zM9BrLA",
+      "id": 5
+    },
+    {
+      "name": "Levis jeans",
+      "price": "1999",
+      "color": "blue",
+      "category": "jeans product",
+      "discription": "",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSuu1RuPnPLkhBF7Pd18eXtA9IO5V47CWfAMZLXwG2pbS-1CsFUv-xscbaOfRhlecClDtn48ZcZvPXcgZx-FoyFmInzfAlvIjyGeezDIp9h",
+      "id": 6
+    },
+    {
+      "name": "children toy",
+      "price": "599",
+      "color": "pink",
+      "category": "doll",
+      "discription": "",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSyaPcziR4fmrx8m1KTqsCg13x15nClVysvgHXwPQjEb_v0B1lJSYTPHHaVBaCsKItOdv9UKxB-0TAU62CDf9Tz6kzSJbHhtiXzCTGsuMrO0tUb1o_FlOb0jA",
+      "id": 7
+    },
+    {
+      "name": "skin care",
+      "price": "4999",
+      "color": "multi",
+      "category": "skin products",
+      "discription": "",
+      "image": "https://82e.com/cdn/shop/files/Turmeric-Shield_Combo-Page_Carousel_01-2_6ca49323-0bea-420a-89e7-bbf17b1efa9d.jpg?v=1689922290",
+      "id": 8
+    }
+  ],
+  "users": [
+    {
+      "name": "rithvik",
+      "email": "rithvik@user.com",
+      "password": "a123",
+      "id": 1
+    },
+    {
+      "name": "rithvik",
+      "email": "rithvik@user.com",
+      "password": "a123",
+      "id": 2
+    },
+    {
+      "name": "priyanka",
+      "email": "priyanka@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "rithvik",
+      "email": "rithvik@user.com",
+      "password": "a123",
+      "id": 5
+    },
+    {
+      "name": "vinay",
+      "email": "vinay@user.com",
+      "password": "abc123",
+      "id": 6
+    },
+    {
+      "name": "anu",
+      "email": "anu@user.com",
+      "password": "abc123",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "rithvik@gmai.com",
+      "password": "a123",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "rithvik@gmai.com",
+      "password": "a123",
+      "id": 9
+    },
+    {
+      "name": "rithvik",
+      "email": "rithvik@user.com",
+      "password": "a123",
+      "id": 10
+    },
+    {
+      "name": "rithvik",
+      "email": "rithvik@gmai.com",
+      "password": "a123",
+      "id": 11
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "rithvik@user.com",
+      "address": "pune",
+      "contact": "9900",
+      "totalPrice": 25098,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "rithvik@user.com",
+      "address": "pune",
+      "contact": "9900",
+      "totalPrice": 25098,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "email": "rithvik@user.com",
+      "address": "pune",
+      "contact": "9900",
+      "totalPrice": 25098,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "rithvik@user.com",
+      "address": "pune",
+      "contact": "9900",
+      "totalPrice": 6099,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "email": "rithvik@gmai.com",
+      "address": "",
+      "contact": "9900",
+      "totalPrice": 3099,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "email": "rithvik@user.com",
+      "address": "pune",
+      "contact": "9900",
+      "totalPrice": 120099,
+      "userId": 1,
+      "id": 7
+    }
+  ]
+}
