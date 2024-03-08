@@ -106,10 +106,10 @@
   "products": [
     {
       "name": "iphone mobile",
-      "price": "100000",
+      "price": "200000",
       "color": "black",
       "category": "mobile",
-      "discription": "",
+      "description": "",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
       "id": 1
     },
@@ -243,9 +243,28 @@
       "email": "rithvik@gmai.com",
       "password": "a123",
       "id": 11
+    },
+    {
+      "name": "priyanka",
+      "email": "priyanka@user.com",
+      "password": "123",
+      "id": 12
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "name": "skin care",
+      "price": "4999",
+      "color": "multi",
+      "category": "skin products",
+      "discription": "",
+      "image": "https://82e.com/cdn/shop/files/Turmeric-Shield_Combo-Page_Carousel_01-2_6ca49323-0bea-420a-89e7-bbf17b1efa9d.jpg?v=1689922290",
+      "quantity": 2,
+      "productId": 8,
+      "userId": 12,
+      "id": 1
+    }
+  ],
   "orders": [
     {
       "email": "rithvik@user.com",
